@@ -1,7 +1,7 @@
-# Filename: Lab15.py
+# Filename: Lab.py
 
 """
-Starter file for Lab 15
+Starter file for Lab 11
 """
 
 from sorters import selection_sort, merge_sort, bubble_sort
